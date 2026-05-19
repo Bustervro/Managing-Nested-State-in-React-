@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.profile-card {
+  width: 400px;
+  margin: 40px auto;
+  padding: 25px;
+  background: white;
+  border-radius: 10px;
+}
+
+.form-section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.info-section {
+  margin-top: 25px;
+}
